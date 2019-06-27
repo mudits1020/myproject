@@ -1,0 +1,11 @@
+difference between 
+every process have its own seperate global variable but in the multithreading programming threads will have share the same memory space 
+
+
+
+
+synchronisation:- Cordination
+
+
+to apply the synchronisation we will use the class lock
+if you want to convert a class into    in that case inherit predefine class inherit
